@@ -1,4 +1,4 @@
-# Setting up and Running Uncensourced Dolphin-Mixtral Using Ollama on Windows Subsystem for Linux (WSL)
+# Setting up and Running Uncensored Dolphin-Mixtral Using Ollama on Windows Subsystem for Linux (WSL)
 
 ## 1. Enable WSL
 
